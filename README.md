@@ -1,23 +1,23 @@
-# Customer Churn Prediction & Analysis
+# **Customer Churn Analysis in Power BI**
 
-This project analyses telecom customer churn using Python, SQL, Power BI, and Excel.
+## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
 
-## Features
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Churn prediction models (Logistic Regression, Random Forest)
-- Visual dashboards in Power BI and Excel
+## **Key Features:**
+📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
-## Folder Structure
-- data/ : dataset
-- notebooks/ : Jupyter notebook for the full workflow
-- scripts/ : Python scripts for modular tasks
-- sql/ : SQL queries for churn KPIs
-- dashboard/ : Power BI (.pbix) and Excel (.xlsx) dashboards
+📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
+![Customer Churn Dashboard](https://github.com/Swmukherjee/Python_built_churn_Project/blob/main/Customer%20Churn%20Dashboard.png)
 
-## How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
-2. Open churn_analysis.ipynb and run cells in order.
-3. Explore dashboards in Power BI or Excel for visualization insights.
+## **Built with:**
+1. Power BI Desktop
+2. Excel
+
+## Key Insights:
+![key insights](https://github.com/Swmukherjee/Python_built_churn_Project/blob/main/Key%20insights.png)
+
+
+## **Benefits:**
+1. Reduce customer loss: Identify and help customers at risk to keep them longer.
+2. Improve customer satisfaction: Understand customer needs better for better service.
+3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
+![Customer Risk Analysis](https://github.com/Swmukherjee/Python_built_churn_Project/blob/main/Customer%20Risk%20Analysis.png)
